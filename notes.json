@@ -1,0 +1,14 @@
+{
+  "eleves": [
+    {
+      "lastname": "DUPOND",
+      "firstname": "Alfonse",
+      "notes": [5, 20, 13, 5, 2]
+    },
+    {
+      "lastname": "DURANT",
+      "firstname": "Hélène",
+      "notes": [20, 20, 18, 15, 20]
+    }
+  ]
+}
